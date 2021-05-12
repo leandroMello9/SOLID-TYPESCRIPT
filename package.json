@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@types/nodemailer": "^6.4.0",
-    "nodemailer": "^6.4.11",
+    "nodemailer": "^6.4.16",
     "ts-node-dev": "^1.0.0-pre.56",
     "typescript": "^3.9.7",
     "uuid-v4": "^0.1.0",
